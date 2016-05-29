@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B2203541CFB75A4000C25CA /* Notes.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 1B2203531CFB75A4000C25CA /* Notes.rtf */; };
 		1B544CC81C3C8830003990CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B544CC71C3C8830003990CD /* AppDelegate.swift */; };
 		1B544CCA1C3C8830003990CD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B544CC91C3C8830003990CD /* ViewController.swift */; };
 		1B544CCD1C3C8831003990CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B544CCB1C3C8831003990CD /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B2203531CFB75A4000C25CA /* Notes.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = Notes.rtf; sourceTree = "<group>"; };
 		1B544CC41C3C8830003990CD /* smsSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = smsSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B544CC71C3C8830003990CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1B544CC91C3C8830003990CD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				1B544CC71C3C8830003990CD /* AppDelegate.swift */,
 				1B544CC91C3C8830003990CD /* ViewController.swift */,
+				1B2203531CFB75A4000C25CA /* Notes.rtf */,
 				1B544CCB1C3C8831003990CD /* Main.storyboard */,
 				1B544CCE1C3C8831003990CD /* Assets.xcassets */,
 				1B544CD01C3C8831003990CD /* LaunchScreen.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1B2203541CFB75A4000C25CA /* Notes.rtf in Resources */,
 				1B544CD21C3C8831003990CD /* LaunchScreen.storyboard in Resources */,
 				1B544CCF1C3C8831003990CD /* Assets.xcassets in Resources */,
 				1B544CCD1C3C8831003990CD /* Main.storyboard in Resources */,
@@ -287,6 +291,7 @@
 				1B544CD81C3C8831003990CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
